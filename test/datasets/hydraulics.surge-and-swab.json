@@ -1,0 +1,4884 @@
+[
+    {
+        "_id": "612cf367ec5b9e25c65df79a",
+        "version": 1,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630188509,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "ream_in": [],
+                "wash_down": [],
+                "pick_up": [],
+                "slack_off": [],
+                "wash_up": []
+            },
+            "bit_depth": 0.16,
+            "hole_depth": 0.16,
+            "status": 0
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf412d34ed065d5fdd076",
+        "version": 1,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630191777,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 0
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf41dfeb5cf73307aa52f",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630192796,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf41f006e99272bcb7a63",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630192857,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf421d34ed06736fdb7d8",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630192918,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf425feb5cf70e47abf41",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630192979,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf426feb5cf70e47abf5b",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193191,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf42a006e992691cb828c",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193252,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf42b006e992691cb82a8",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193313,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf42e42cdf05deed3943b",
+        "version": 1,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193354,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 0
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf42f42cdf05deed3944a",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193374,
+        "data": {
+            "mud_density": 9.45,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.75
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.76
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.76
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.67
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.68
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.69
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.69
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.38
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.39
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.4
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.42
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.43
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.44
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 8.06
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 8.07
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 8.08
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 8.09
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 8.1
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 8.11
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 8.12
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 8.12
+                            }
+                        ]
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.39
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.42
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.41
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.4
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 10.64
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 10.69
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 10.68
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 10.67
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 10.66
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.08
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.23
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.22
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.21
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.2
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.19
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.18
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.17
+                            }
+                        ]
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": [
+                            {
+                                "measured_depth": 13484.25,
+                                "ecd": 11.59
+                            },
+                            {
+                                "measured_depth": 13778.09,
+                                "ecd": 11.88
+                            },
+                            {
+                                "measured_depth": 14071.93,
+                                "ecd": 11.87
+                            },
+                            {
+                                "measured_depth": 14365.77,
+                                "ecd": 11.85
+                            },
+                            {
+                                "measured_depth": 14659.61,
+                                "ecd": 11.84
+                            },
+                            {
+                                "measured_depth": 14953.44,
+                                "ecd": 11.83
+                            },
+                            {
+                                "measured_depth": 15247.28,
+                                "ecd": 11.81
+                            },
+                            {
+                                "measured_depth": 15541.12,
+                                "ecd": 11.8
+                            },
+                            {
+                                "measured_depth": 15834.96,
+                                "ecd": 11.79
+                            },
+                            {
+                                "measured_depth": 16128.8,
+                                "ecd": 11.78
+                            },
+                            {
+                                "measured_depth": 16422.64,
+                                "ecd": 11.77
+                            }
+                        ]
+                    }
+                ]
+            },
+            "actual": {
+                "ream_out": [],
+                "slack_off": [],
+                "pick_up": [],
+                "ream_in": [],
+                "wash_up": [],
+                "wash_down": []
+            },
+            "bit_depth": 16422.64,
+            "hole_depth": 16422.64,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630191777",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf4313377fd240a2f5157",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193435,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf43462840466969f8dba",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193496,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf43462840466969f8dd3",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193557,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf4373377fd27512f1a86",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193618,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf439feb5cf72047aaa04",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193679,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf43d42cdf05ed2d370bb",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193740,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf441006e992b91cb2c5b",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193801,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf44301152c6c7593c702",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193862,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    },
+    {
+        "_id": "612cf46483d83e71e52ea1ca",
+        "version": 1.0,
+        "provider": "corva",
+        "collection": "hydraulics.surge-and-swab",
+        "timestamp": 1630193923,
+        "data": {
+            "mud_density": 8.8,
+            "curves": {
+                "swab": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "open_ended",
+                        "type": "swab",
+                        "points": []
+                    }
+                ],
+                "surge": [
+                    {
+                        "string_velocity": 50.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 100.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 200.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    },
+                    {
+                        "string_velocity": 300.0,
+                        "end_type": "close_ended",
+                        "type": "surge",
+                        "points": []
+                    }
+                ]
+            },
+            "actual": {
+                "wash_down": [],
+                "ream_in": [],
+                "slack_off": [],
+                "wash_up": [],
+                "ream_out": [],
+                "pick_up": []
+            },
+            "bit_depth": 54.89,
+            "hole_depth": 54.89,
+            "status": 1.0,
+            "warning": {
+                "stale": true,
+                "last_updated_at": "1630193354",
+                "code": "data_missing_error",
+                "message": "The data appears to have the following missing channels: 'Mud Flowrate In'. They are required for running this app. Please contact Corva's support to get help."
+            }
+        },
+        "asset_id": 44801538,
+        "company_id": 52
+    }
+]
